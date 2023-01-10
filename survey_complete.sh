@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=sleepy cat ferry soba cafe03
+EXAMCODE=221607349
 
 echo ${EXAMCODE}
